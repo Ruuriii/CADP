@@ -1,6 +1,6 @@
 program caramelos;
 const
- precio:=1.60;
+ precio=1.60;
 var
  candy,custom,total,sobra,vendido:integer;
  dinero:real
