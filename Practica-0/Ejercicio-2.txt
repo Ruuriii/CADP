@@ -1,4 +1,4 @@
-program con-variable;
+program con_variable;
 var
  num1,num2,suma:integer;
 begin
@@ -8,7 +8,7 @@ begin
  writeln('La suma de ',num2,' y ',num1,' es= ',suma);
 end.
 
-program sin-variable;
+program sin_variable;
 var
  num1,num2:integer;
 begin
