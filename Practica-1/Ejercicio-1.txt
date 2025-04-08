@@ -12,4 +12,3 @@ begin
  else
   writeln('Ambos números son iguales');
 end.
-  
