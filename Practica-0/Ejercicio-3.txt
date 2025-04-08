@@ -1,4 +1,4 @@
-program 3;
+program tres;
 var
  num1,num2,result:real;
 begin
