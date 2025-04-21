@@ -15,7 +15,7 @@ begin
     cantprom:=cantprom+1;
    if(prom>8.50)and(leg<2500)then
     promdest:=promdest+1;
-   read(leg);
+   readln(leg);
   end;
  writeln('Cantidad de alumnos: ',cantalum); 
  writeln('Promedios que superan 6.5: ',cantprom);
